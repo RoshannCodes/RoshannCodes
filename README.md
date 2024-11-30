@@ -1,11 +1,7 @@
 <h1>💫About Me</h1>
 
 Welcome to My GitHub!
-I am a passionate Data Science enthusiast and a committed coder, eager to explore the endless possibilities of data-driven solutions.
-
-Having just started my journey in this field, I am dedicated to gaining skills and experience, continuously learning to turn data into impactful insights.
-
-Beyond the screen, I believe in perseverance, curiosity, and growth, and I am excited to collaborate on innovative projects that make a difference. Let's build something extraordinary together!
+I am a passionate Data Science enthusiast and a committed coder, eager to explore the endless possibilities of data-driven solutions. Having just started my journey in this field, I am dedicated to gaining skills and experience, continuously learning to turn data into impactful insights. Beyond the screen, I believe in perseverance, curiosity, and growth, and I am excited to collaborate on innovative projects that make a difference. Let's build something extraordinary together!
 
 
 ## 🌐 Socials:
