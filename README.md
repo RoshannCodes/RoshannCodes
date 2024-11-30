@@ -1,4 +1,4 @@
-<h3>💫About Me</h3>
+<h1>💫About Me</h1>
 
 Welcome to My GitHub!
 I am a passionate Data Science enthusiast and a committed coder, eager to explore the endless possibilities of data-driven solutions.
